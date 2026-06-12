@@ -99,7 +99,7 @@ function renderNavbar() {
 
   el.innerHTML = `
     <div class="nav-inner">
-      <a href="index.html" class="logo">🛒 MP Store</a>
+      <a href="index.html" class="logo">🛒 Asad's Store</a>
       <div class="nav-links">${links}</div>
     </div>`;
 

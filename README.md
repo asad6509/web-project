@@ -1,4 +1,4 @@
-# 🛒 MP Store — JSON Server Ecommerce
+# 🛒 Asad's Store — JSON Server Ecommerce
 
 HTML / CSS / JavaScript ecommerce store with a `json-server` backend.
 Features: authentication, admin product management, cart, and **dummy**
