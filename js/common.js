@@ -3,7 +3,7 @@ const IS_LOCAL =
 
 const API = IS_LOCAL
   ? "http://localhost:3000"
-  : "https://my-json-server.typicode.com/faizan1699/ecommerce-mock";
+  : "https://my-json-server.typicode.com/typicode/demo";
 
 function getCurrentUser() {
   const raw = localStorage.getItem("currentUser");
